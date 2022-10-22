@@ -341,5 +341,12 @@
         "description": "A dropdown button lets the user select from a number of items. The button shows the currently selected item as well as an arrow that opens a menu for selecting another item.",
         "youtube link": "https://youtu.be/ZzQ_PWrFihg",
         "documentation page": "https://api.flutter.dev/flutter/material/DropdownButton-class.html"
+    },
+    {
+        "id": 63,
+        "name": "GestureDetector",
+        "description": "A widget that detects gestures. Attempts to recognize gestures that correspond to its non-null callbacks. If this widget has a child, it defers to that child for its sizing behavior. If it does not have a child, it grows to fit the parent instead.",
+        "youtube link": "https://youtu.be/WhVXkCFPmK4",
+        "documentation page": "https://api.flutter.dev/flutter/widgets/GestureDetector-class.html"
     }
 ]
