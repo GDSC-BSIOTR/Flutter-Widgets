@@ -334,5 +334,12 @@
         "description": "A widget that clips its child using a rounded rectangle. By default, ClipRRect uses its own bounds as the base rectangle for the clip, but the size and location of the clip can be customized using a custom clipper.",
         "youtube link": "https://youtu.be/eI43jkQkrvs",
         "documentation page": "https://api.flutter.dev/flutter/widgets/ClipRRect-class.html"
+    },
+    {
+        "id": 62,
+        "name": "DropdownButton",
+        "description": "A dropdown button lets the user select from a number of items. The button shows the currently selected item as well as an arrow that opens a menu for selecting another item.",
+        "youtube link": "https://youtu.be/ZzQ_PWrFihg",
+        "documentation page": "https://api.flutter.dev/flutter/material/DropdownButton-class.html"
     }
 ]
