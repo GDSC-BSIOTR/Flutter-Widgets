@@ -355,5 +355,12 @@
         "description": "A material expansion panel. It has a header and a body and can be either expanded or collapsed. The body of the panel is only visible when it is expanded.",
         "youtube link": "https://youtu.be/2aJZzRMziJc",
         "documentation page": "https://api.flutter.dev/flutter/material/ExpansionPanel-class.html"
+    },
+    {
+        "id": 65,
+        "name": "RepaintBoundary",
+        "description": "This widget creates a separate display list for its child, which can improve performance if the subtree repaints at different times than the surrounding parts of the tree.",
+        "youtube link": "https://youtu.be/cVAGLDuc2xE",
+        "documentation page": "https://api.flutter.dev/flutter/widgets/RepaintBoundary-class.html"
     }
 ]
