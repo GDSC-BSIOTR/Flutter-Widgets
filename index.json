@@ -348,5 +348,12 @@
         "description": "A widget that detects gestures. Attempts to recognize gestures that correspond to its non-null callbacks. If this widget has a child, it defers to that child for its sizing behavior. If it does not have a child, it grows to fit the parent instead.",
         "youtube link": "https://youtu.be/WhVXkCFPmK4",
         "documentation page": "https://api.flutter.dev/flutter/widgets/GestureDetector-class.html"
+    },
+    {
+        "id": 64,
+        "name": "ExpansionPanel",
+        "description": "A material expansion panel. It has a header and a body and can be either expanded or collapsed. The body of the panel is only visible when it is expanded.",
+        "youtube link": "https://youtu.be/2aJZzRMziJc",
+        "documentation page": "https://api.flutter.dev/flutter/material/ExpansionPanel-class.html"
     }
 ]
